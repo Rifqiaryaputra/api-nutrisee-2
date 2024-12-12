@@ -1,0 +1,24 @@
+{
+  "name": "api-nutrisee-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rifqiaryaputra/api-nutrisee-2.git"
+  },
+  "keywords": [
+    "api",
+    "model",
+    "2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rifqiaryaputra/api-nutrisee-2/issues"
+  },
+  "homepage": "https://github.com/Rifqiaryaputra/api-nutrisee-2#readme",
+  "description": ""
+}
